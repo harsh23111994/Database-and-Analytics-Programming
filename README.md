@@ -1,6 +1,4 @@
 # Database-and-Analytics-Programming Using Python
-
-# Project Requirement
 Analyzing the root cause of death caused by various events happening in the city of New York using Python
 
 # Technologies Used: 
